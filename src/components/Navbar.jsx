@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import TyceLogo from '../assets/TyceLogo.png';
-import ProfilePic from '../assets/chico.png'; 
+import TyceLogo from '../../public/assets/TyceLogo.png';
+import ProfilePic from '../../public/assets/chico.png';
 
 const Navbar = () => {
   return (
