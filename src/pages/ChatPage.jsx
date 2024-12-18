@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import Navbar from '../components/Navbar';
-import TyceLogo from '@/assets/TyceLogo.png';
+import TyceLogo from '../../public/assets/TyceLogo.png';
 
-import UserProfile from '@/assets/chico.png'; 
+import UserProfile from '../../public/assets/chico.png';
+
 
 const ChatPage = () => {
   const location = useLocation();

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Navbar from '../components/Navbar';
-import TyceLogo from '@/assets/TyceLogo.png';
+import TyceLogo from '../../public/assets/TyceLogo.png';
 
 const AddItemPage = () => {
   const [selectedFile, setSelectedFile] = useState(null);

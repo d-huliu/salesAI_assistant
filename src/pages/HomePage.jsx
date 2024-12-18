@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Navbar from '../components/Navbar';
-import TyceLogo from '@/assets/TyceLogo.png';
+import TyceLogo from '../../public/assets/TyceLogo.png';
+
 import { useNavigate } from 'react-router-dom';
 import { ChevronUp, ChevronDown } from 'lucide-react';
 
