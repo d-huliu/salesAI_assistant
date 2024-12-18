@@ -7,3 +7,7 @@
   ```
 
 4. Start the project:
+
+
+Check out the published project:
+https://tycesalesai.netlify.app/
