@@ -1,8 +1,8 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
-import TyceLogo from '../assets/TyceLogo.png';
-import defaultPic from '../assets/Profile.png';
-import myPic from '../assets/chico.png';
+import TyceLogo from '@/assets/TyceLogo.png';
+import defaultPic from '@/assets/Profile.png';
+import myPic from '@/assets/chico.png';
 
 const SettingsPage = () => {
   return (

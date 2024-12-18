@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
-import TyceLogo from '../assets/TyceLogo.png';
+import TyceLogo from '@/assets/TyceLogo.png';
 
 const AnalyticsPage = () => {
   return (
